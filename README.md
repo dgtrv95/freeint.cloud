@@ -1,1 +1,1 @@
-1
+Server status (uptime) - 
